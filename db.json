@@ -8,11 +8,11 @@
       "id": 1
     },
     {
+      "id": 2,
       "message": "Hard drive failed in workstation 002",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2022-03-29T15:52:35.694Z",
-      "id": 2
+      "tech": "Kate Mara",
+      "date": "2022-03-29T18:48:04.789Z"
     },
     {
       "id": 3,
@@ -37,6 +37,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Kate",
+      "lastName": "Mara",
+      "id": 4
+    },
+    {
+      "firstName": "Gill",
+      "lastName": "Roberts",
+      "id": 5
     }
   ]
 }
