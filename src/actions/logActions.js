@@ -58,6 +58,7 @@ export const deleteLog = id => async dispatch => {
         dispatch({ type: LOGS_ERROR, payload: error.response.statusText });
     }
 };
+
 //Update log on server
 export const updateLog = log => async dispatch => {
     try {
